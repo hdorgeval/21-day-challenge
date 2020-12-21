@@ -4,4 +4,4 @@
 
 - [Responsive design made easy](https://www.youtube.com/watch?v=bn-DQCifeQQ)
 
-- [CSS em and rem explained](https://www.youtube.com/watch?v=_-aDOAMmDHI&feature=youtu.be)
+- [CSS em vs rem explained](https://www.youtube.com/watch?v=_-aDOAMmDHI&feature=youtu.be)
